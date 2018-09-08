@@ -7,6 +7,6 @@
 	<body>
 		页面运行时发生异常
 		<br>
-		page error
+		<%=exception.toString()%>
 	</body>
 </html>
